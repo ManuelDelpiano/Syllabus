@@ -1,8 +1,8 @@
 ---
 name: Duda sobre ejercicios propuestos
 about: Duda relacionada con los ejercicios propuestos en los contenidos del curso
-title: Título descriptivo (reemplazar con el título apropiado)
-labels: ''
+title: ''
+labels: Ejercicios Propuestos
 assignees: ''
 
 ---
